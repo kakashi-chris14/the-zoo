@@ -1,0 +1,30 @@
+.first{
+    color: green;
+    text-align-last: center;
+}
+
+.snake{
+    color:red;
+    text-align: left;
+}
+
+.bunnies{
+    color:darkorange;
+}
+
+.ticket1{
+    text-align: center;
+}
+
+.ticket2{
+    display: block; margin: 0 auto;
+}
+
+.price{
+    color: blue;
+    text-align:center;
+}
+
+.price2{
+    text-align: center;
+}
